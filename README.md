@@ -1,1 +1,1 @@
-# dino-game
+# my dino-game
